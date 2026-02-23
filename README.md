@@ -122,7 +122,7 @@ This project was developed as part of an academic learning process to demonstrat
 ### 1️⃣ Clone the Repository  
 
 ```bash
-git clone https://github.com/your-username/pro-bmi-calculator.git
+git clone :https://github.com/upeka200163/BMI-Calculator.git
 ```
 
 ### 2️⃣ Navigate to Project Folder  
